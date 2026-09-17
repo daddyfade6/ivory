@@ -1,0 +1,7 @@
+{
+  "name": "LAGO Landscapes",
+  "description": "Refined botanical sanctuaries, bespoke outdoor architecture, and ecological craftsmanship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
